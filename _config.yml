@@ -15,11 +15,11 @@ keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,
 encoding: "utf-8"
 favicon: favicon.png 
 
-repository: blog_page/blog_page.github.io
-github_url: https://github.com/blog_page
-cnblog_url: http://www.cnblogs.com/blog_page
-url: http://www.blog_page.com
-enforce_ssl: blog_page.com
+repository: QingDai/QingDai.github.io
+github_url: https://github.com/QingDai
+cnblog_url: http://www.cnblogs.com/QingDai
+url: http://www.QingDai.com
+enforce_ssl: QingDai.com
 
 ## Gem
 plugins:
